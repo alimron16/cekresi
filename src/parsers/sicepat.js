@@ -57,17 +57,41 @@ async function parseSicepat(resi, verify) {
       if (lacakBtn) lacakBtn.click();
     });
 
-    await page.waitForSelector('#mobile-otp-input-0', { timeout: 10000 });
-
-    for (let i = 0; i < 5; i++) {
-      await page.type(`#mobile-otp-input-${i}`, verifyStr[i]);
+    // Wait for EITHER the OTP inputs to appear OR the API response to be intercepted directly (if no OTP is required)
+    let otpRequired = false;
+    try {
+      await Promise.race([
+        page.waitForSelector('#mobile-otp-input-0', { timeout: 5000 }).then(() => { otpRequired = true; }),
+        new Promise((resolve, reject) => {
+          const checkResponse = setInterval(() => {
+            if (apiResponse) {
+              clearInterval(checkResponse);
+              resolve();
+            }
+          }, 100);
+          setTimeout(() => {
+            clearInterval(checkResponse);
+            reject(new Error('Timeout'));
+          }, 5000);
+        })
+      ]);
+    } catch (e) {
+      if (!apiResponse && !otpRequired) {
+        throw new Error('Timeout waiting for tracking response or verification modal');
+      }
     }
 
-    await page.evaluate(() => {
-      const buttons = Array.from(document.querySelectorAll('button'));
-      const lanjutkanBtn = buttons.find(b => b.textContent.includes('Lanjutkan'));
-      if (lanjutkanBtn) lanjutkanBtn.click();
-    });
+    if (otpRequired && !apiResponse) {
+      for (let i = 0; i < 5; i++) {
+        await page.type(`#mobile-otp-input-${i}`, verifyStr[i]);
+      }
+
+      await page.evaluate(() => {
+        const buttons = Array.from(document.querySelectorAll('button'));
+        const lanjutkanBtn = buttons.find(b => b.textContent.includes('Lanjutkan'));
+        if (lanjutkanBtn) lanjutkanBtn.click();
+      });
+    }
 
     const maxRetries = 15;
     for (let retry = 0; retry < maxRetries; retry++) {
