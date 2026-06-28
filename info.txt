@@ -1,0 +1,565 @@
+JNE
+
+HTTP/1.1
+GET cekresi . jne . co . id
+Method: GET
+URL
+https://cekresi.jne.co.id/022880029631126?verify=02382
+Headers
+Accept:
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:
+gzip, deflate, br, zstd
+Accept-Language:
+en-GB,en-US;q=0.9,en;q=0.8
+Connection:
+keep-alive
+Cookie:
+_ga=GA1.3.977714916.1782634007; _fbp=fb.2.1782634008214.643087389370220089; _tt_enable_cookie=1; _ttp=01KW6M8KXD6GKVYSA0XY46DA1C_.tt.2; _ga_7V32MGQLQ4=GS2.3.s1782634006$o1$g1$t1782634047$j19$l0$h0; ttcsid=1782634008504::MkTaHFb0yCXy3HS-3JKt.1.1782634049883.0::1.24378.25230::41374.5.673.821::35212.16.400; ttcsid_CMKUO8RC77UB6TL30A6G=1782634008503::batrR38LOG3lY7PjHqNu.1.1782634049884.1
+Host:
+cekresi.jne.co.id
+Referer:
+https://jne.co.id/
+sec-ch-ua:
+"Google Chrome";v="149", "Chromium";v="149", "Not)A;Brand";v="24"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+Sec-Fetch-Dest:
+document
+Sec-Fetch-Mode:
+navigate
+Sec-Fetch-Site:
+same-site
+Sec-Fetch-User:
+?1
+Upgrade-Insecure-Requests:
+1
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+200
+Status: 200 OK
+Headers
+Connection:
+keep-alive
+Content-Encoding:
+gzip
+Content-Type:
+text/html; charset=UTF-8
+Date:
+Sun, 28 Jun 2026 08:07:29 GMT
+Set-Cookie:
+ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2265a460d70e0c3f3057eee75c850942cb%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A10%3A%2210.30.5.12%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A111%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1782634049%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D8c6ba08b3313bb8c7181f56c02035669; expires=Sun, 28-Jun-2026 10:07:29 GMT; Max-Age=7200; path=/
+Strict-Transport-Security:
+max-age=15768000
+Transfer-Encoding:
+chunked
+Vary:
+Accept-Encoding
+X-Content-Type-Options:
+nosniff
+X-Frame-Options:
+SAMEORIGIN
+X-XSS-Protection:
+1; mode=block
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  <title>JNE Menyambung Kebahagiaan Dari Generasi ke Generasi</title>
+  <meta name="title" content="JNE Menyambung Kebahagiaan Dari Generasi ke Generasi">
+  <meta name="description" content="PT. Tiki Jalur Nugraha Ekakurir atau biasa dikenal sebagai JNE merupakan salah satu perusahaan ekspedisi barang terbesar di Indonesia.">
+  <meta name="keywords" content="PT. Tiki Jalur Nugraha Ekakurir atau biasa dikenal sebagai JNE merupakan salah satu perusahaan ekspedisi barang terbesar di Indonesia.">
+  <meta name="url" content="https://www.jne.co.id/tracking-package">
+  <meta name="image" content="">
+  <meta name="fb::app_id" content="">
+  <meta name="article:author" content="">
+
+  <meta name="og:type" content="website">
+  <meta name="og:title" content="JNE Menyambung Kebahagiaan Dari Generasi ke Generasi">
+  <meta name="og:description" content="PT. Tiki Jalur Nugraha Ekakurir atau biasa dikenal sebagai JNE merupakan salah satu perusahaan ekspedisi barang terbesar di Indonesia.">
+  <meta name="og:url" content="https://www.jne.co.id/tracking-package">
+  <meta name="og:image" content="">
+  <meta name="og:author" content="">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="JNE Menyambung Kebahagiaan Dari Generasi ke Generasi">
+  <meta name="twitter:description" content="PT. Tiki Jalur Nugraha Ekakurir atau biasa dikenal sebagai JNE merupakan salah satu perusahaan ekspedisi barang terbesar di Indonesia.">
+  <meta name="twitter:twitter-id" content="">
+  <meta name="twitter:image" content="">
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3VJP5P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1058956608607048&ev=PageView&noscript=1" /></noscript>
+  <link rel="icon" type="image/png" href="https://cekresi.jne.co.id/assets/images/thumb_32_32_contain_jne-express-1.png" sizes="32x32">
+  <link rel="canonical" href="https://www.jne.co.id/tracking-package" />
+  <meta name="robots" content="index, follow">
+
+  <link rel="stylesheet" href="https://cekresi.jne.co.id/vendors/webarq-icons/css/reset.css" preload>
+  <link rel="stylesheet" href="https://cekresi.jne.co.id/vendors/webarq-icons/css/milligram.css" preload>
+  <link rel="stylesheet" href="https://cekresi.jne.co.id/vendors/webarq-icons/css/style.css" preload>
+  <link rel="stylesheet" href="https://cekresi.jne.co.id/vendors/webarq-icons/style.css" preload>
+  <link rel="stylesheet" href="https://cekresi.jne.co.id/vendors/webarq-icons/css/fontawesome/css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cekresi.jne.co.id/vendors/webarq-icons/css/lainnya.css?v=1741278208" preload>
+  <link rel="stylesheet" href="https://cekresi.jne.co.id/build/css/style.css" preload>
+</head>
+
+<body>
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-78249259-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <header class="main-header">
+    <div class="wrapper header-content">
+      <a href="https://www.jne.co.id/" class="jne-logo"> <img src="https://cekresi.jne.co.id/assets/images/logo.svg" alt="Logo JNE"></a>
+
+      <div class="language-dropdown" id="desktopLanguageDropdown">
+        <div class="nav-lang" id="langToggleDesktop">
+          <i class="ic-globe"></i>
+          <span id="currentLangTextDesktop">INDONESIA</span>
+        </div>
+        <ul class="dropdown-menu" id="langOptionsDesktop">
+          <li data-lang="id" class="dropdown-item active">
+            <a href="#" class="dropdown-link">INDONESIA</a>
+          </li>
+          <li data-lang="en" class="dropdown-item ">
+            <a href="#" class="dropdown-link">ENGLISH</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="navbar-toggle" id="navbarToggle">
+        <button type="button" class="nav-toggler">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+
+      <nav class="main-nav-container" id="mainNavContainer">
+        <ul class="main-nav-links">
+          <li class="nav-item mobile-search-lang">
+            <div class="language-dropdown-mobile">
+              <div class="nav-lang" id="langToggleMobile">
+                <i class="ic-globe"></i>
+                <span id="currentLangTextMobile">INDONESIA</span>
+                <i class="fa fa-caret-down"></i>
+              </div>
+              <ul class="dropdown-menu" id="langOptionsMobile">
+                <li data-lang="id" class="dropdown-item active">
+                  <a href="#" class="dropdown-link">INDONESIA</a>
+                </li>
+                <li data-lang="en" class="dropdown-item ">
+                  <a href="#" class="dropdown-link">ENGLISH</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="solution">
+    <div class="bg-line-related" bis_skin_checked="1" style="top: 100px;">
+      <div class="line-solid-1" bis_skin_checked="1"></div>
+      <div class="line-dashed-1" bis_skin_checked="1">
+        <div class="line-point" bis_skin_checked="1">
+          <div class="circle-point" bis_skin_checked="1" style="background-color: rgb(225, 28, 34);"></div>
+        </div>
+      </div>
+      <div class="line-solid-2" bis_skin_checked="1"></div>
+      <div class="line-dashed-2" bis_skin_checked="1">
+        <div class="line-point" bis_skin_checked="1">
+          <div class="circle-point" bis_skin_checked="1" style="background-color: rgb(225, 28, 34);"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="lainnya report-main-content wrapper">
+    <h1 class="main-content-title" data-key="trackingTitle">Pelacakan Pengiriman</h1>
+
+    <section class="report-card-section">
+      <div class="card">
+        <div class="report-header-grid">
+          <div class="header-info-item">
+            <span class="label" data-key="resiLabel"><i class="fa fa-barcode"></i> No Resi :</span>
+            <h5 id="singleResi">-</h5>
+            <h6 id="multiResi" style="display: none;">
+              <div id="resiNumberContainer"></div>
+              <div class="resi-dropdown">
+                <div class="resi-dropdown-toggle" id="resiToggle">
+                  <span id="currentResiText">Pilih Nomor Resi</span>
+                  <i class="fa fa-caret-down"></i>
+                </div>
+                <ul class="resi-dropdown-options" id="resiOptions">
+                </ul>
+              </div>
+            </h6>
+          </div>
+          <div class="header-info-item">
+            <span class="label" data-key="statusLabel"><i class="fa fa-info-circle"></i> Status Pengiriman :</span>
+            <h4 class="value status-value" id="currentStatus">-</h4>
+          </div>
+        </div>
+        <div class="report-summary-layout">
+          <div class="summary-info-item">
+            <span class="label" data-key="shipmentServiceLabel"><i class="fa fa-archive"></i> Layanan Pengiriman:</span>
+            <h4 class="value" data-key="shipmentServiceValue"></h4>
+          </div>
+          <div class="summary-info-item">
+            <span class="label" data-key="fromLabel"><i class="fa fa-inbox"></i> Dari:</span>
+            <h4 class="value" data-key="fromValue"></h4>
+          </div>
+          <div class="summary-info-item">
+            <span class="label" data-key="toLabel"><i class="fa fa-truck"></i> Ke:</span>
+            <h4 class="value" data-key="toValue"></h4>
+          </div>
+          <div class="summary-info-item">
+            <span class="label" data-key="estimateDeliveryLabel"><i class="fa fa-clock"></i> Estimasi
+              Pengiriman:</span>
+            <h4 class="value" data-key="estimateDeliveryValue"></h4>
+          </div>
+          <div class="summary-info-item">
+            <span class="label" data-key="podDateLabel"><i class="fa fa-cube"></i> Tanggal POD:</span>
+            <h4 class="value" data-key="podDateValue"></h4>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div id="loadingIndicator" class="loading-indicator">
+      .........
+    </div>
+
+    <section class="report-card-section">
+      <div class="tab-container">
+        <ul class="tab-links">
+          <li><a href="#history-status" class="active" data-key="tabHistory">Riwayat Status</a></li>
+          <li><a href="#shipment-detail" data-key="tabDetail">Detail Pengiriman</a></li>
+          <li><a href="#shipper-info" data-key="tabShipper">Info Pengirim</a></li>
+          <li><a href="#receiver-info" data-key="tabReceiver">Info Penerima</a></li>
+        </ul>
+
+        <div class="tab-content">
+          <div id="history-status" class="tab-pane active">
+            <section class="lainnya hero">
+              <div class="bg" style="right: -2vw;">
+                <img src="https://cekresi.jne.co.id/assets/images/line-car-full.svg" alt="Dekorasi Mobil JNE">
+              </div>
+            </section>
+            <div class="history-content-layout">
+              <div class="timeline-container">
+                <ul class="timeline" id="timelineList">
+                </ul>
+              </div>
+              <div class="receiver-info-block">
+                <span class="label" data-key="receiverNameLabel"><i class="fa fa-user"></i> Nama Penerima</span>
+                <h2 class="value" id="displayReceiverName"></h2>
+                <h4 class="value" id="displayReceiverRelationship"></h4>
+              </div>
+            </div>
+          </div>
+
+          <div id="shipment-detail" class="tab-pane">
+            <div class="detail-grid">
+              <div class="detail-item">
+                <span class="label" data-key="shipmentDateLabel">Tanggal Kirim</span>
+                <h4 class="value" id="displayShipmentDate"><b></b></h4>
+              </div>
+              <div class="detail-item">
+                <span class="label" data-key="koliLabel">Koli</span>
+                <h4 class="value" id="displayKoli"><b></b></h4>
+              </div>
+              <div class="detail-item">
+                <span class="label" data-key="weightLabel">Berat</span>
+                <h4 class="value" id="displayWeight"><b></b></h4>
+              </div>
+            </div>
+            <div class="detail-item">
+              <span class="label" data-key="goodDescriptionLabel">Deskripsi Barang</span>
+              <h4 class="value" id="displayGoodDescription"><b></b></h4>
+            </div>
+          </div>
+
+          <div id="shipper-info" class="tab-pane">
+            <div class="detail-item">
+              <span class="label" data-key="shipperNameLabel">Nama Pengirim</span>
+              <h4 class="value" id="displayShipperName"><b></b></h4>
+            </div>
+            <div class="detail-item">
+              <span class="label" data-key="shipperCityLabel">Kota Pengirim</span>
+              <h4 class="value" id="displayShipperCity"><b></b></h4>
+            </div>
+          </div>
+
+          <div id="receiver-info" class="tab-pane">
+            <div class="detail-item">
+              <span class="label" data-key="receiverNameDetailLabel">Nama Penerima</span>
+              <h4 class="value" id="displayReceiverNameDetail"><b></b></h4>
+            </div>
+            <div class="detail-item">
+              <span class="label" data-key="receiverCityLabel">Kota Penerima</span>
+              <h4 class="value" id="displayReceiverCity"><b></b></h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="main-footer">
+    <div class="wrapper footer-content">
+      <div class="footer-left">
+        <a href="https://www.jne.co.id/"> <img src="https://cekresi.jne.co.id/assets/images/logo.svg" alt="Logo JNE" class="jne-logo-small"></a>
+        <div class="contact-info">
+          <p><i class="fa fa-phone" style="margin-right: var(--spacing-xs);"></i> <a href="tel:+622129278888" data-key="footerPhoneValue">(021) 2927 8888</a></p>
+          <p><i class="fa fa-envelope" style="margin-right: var(--spacing-xs);"></i> <a href="mailto:customercare@jne.co.id" data-key="footerEmailValue">customercare@jne.co.id</a></p>
+        </div>
+      </div>
+      <div class="copyright">
+        <span data-key="copyrightText">Copyright 2025</span>
+      </div>
+    </div>
+  </footer>
+  <script>
+    window.allTrackingData = {
+      "022880029631126": {
+        "resiNumber": "022880029631126",
+        "currentStatus": "DELIVERED",
+        "service": "YES",
+        "from": "-",
+        "to": "PONDOK AREN, TANGERA",
+        "estimateDelivery": "1",
+        "podDate": "23-06-2026 16:03:55",
+        "receiverName": "ALPIAN",
+        "receiverRelationship": "KELUARGA\/SAUDARA",
+        "shipmentDate": "22-06-2026 20:37:16",
+        "koli": 1,
+        "weight": "1 Kg",
+        "goodDescription": "SEPATU",
+        "shipperName": "FLOODY BLUE ",
+        "shipperCity": "-",
+        "receiverNameDetail": "AL IMRON ",
+        "receiverCityDetail": "PONDOK AREN, TANGERA",
+        "history": [{
+          "title": "DELIVERED TO [ALPIAN | 23-06-2026 16:03 | TANGERANG ]",
+          "date": "23-06-2026 16:03:55",
+          "active": true
+        }, {
+          "title": "WITH DELIVERY COURIER [TGR, HUB TANGSEL] [TGR, HUB TANGSEL]",
+          "date": "23-06-2026 11:58:16",
+          "active": false
+        }, {
+          "title": "RECEIVED AT WAREHOUSE [TGR, HUB TANGSEL] [TGR, HUB TANGSEL]",
+          "date": "23-06-2026 11:10:00",
+          "active": false
+        }, {
+          "title": "SHIPMENT PICKED UP BY JNE COURIER [BANDUNG] []",
+          "date": "23-06-2026 00:13:54",
+          "active": false
+        }, {
+          "title": "PROCESSED AT SORTING CENTER [BANDUNG,SOEKARNO HATTA] [BANDUNG,SOEKARNO HATTA]",
+          "date": "22-06-2026 23:42:00",
+          "active": false
+        }, {
+          "title": "SHIPMENT RECEIVED AT [BANDUNG] [BDO, AGEN KOPO MARGAHAYU 2]",
+          "date": "22-06-2026 20:37:16",
+          "active": false
+        }]
+      }
+    };
+  </script>
+  <script async type="text/javascript" src="https://cekresi.jne.co.id/vendors/webarq-icons/lainnya.js"></script>
+  <script src="https://cekresi.jne.co.id/vendors/webarq-icons/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cekresi.jne.co.id/build/js/script.js"></script>
+</body>
+
+
+
+
+SICEPAT
+
+HTTP/1.1
+POST api . sicepatconsumer . com
+Method: POST
+URL
+https://api.sicepatconsumer.com/v2/contentsvc/public/check-awb
+Headers
+Accept:
+application/json, text/plain, */*
+Accept-Encoding:
+gzip, deflate, br, zstd
+Accept-Language:
+en-GB,en-US;q=0.9,en;q=0.8
+Connection:
+keep-alive
+Content-Length:
+46
+Content-Type:
+application/json
+Host:
+api.sicepatconsumer.com
+Origin:
+https://www.sicepat.com
+Referer:
+https://www.sicepat.com/
+sec-ch-ua:
+"Google Chrome";v="149", "Chromium";v="149", "Not)A;Brand";v="24"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+Sec-Fetch-Dest:
+empty
+Sec-Fetch-Mode:
+cors
+Sec-Fetch-Site:
+cross-site
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+x-recaptcha:
+0cAFcWeA5u7pBG5qSd72MgYwZbajsfsqLCsOPb9LA4GioFThBw3ZByiWzm-c5Jtk7vRYtn2MforK4VHsn94h1MXfgHuVfHhu6NmG2lMMl7qFnZIe-cO9pb88szHbiiE6Pbv2R5Q_Zh6K8skZDCcfv51BRzKlanjSvTdgjz5RrV4ebSMaWBcUjbyn97r-FO0Mt3lo_DtysFcnzGete0od2zQ__AICCxPkiTYAX87ueMujnCUuRXNCYtQI6m2qsuZNrSxoMfLxA_c3fCtZPvbID4qlvyVKyPgCe_YXBrF8NvOA1exQzpYkbAcum4uyMj5OIL7K-2IkiyBylDZcTUacKS6VWSoenPBoMG3IP1T974eQ3Ej5bNk6z7sZftMouoUI97VK0W-6WPF1tQwgMuBzoGIQ4cBBqat8R6cjn092qbLFIYnbN0I38ku5xMNQeBazlqCYQfmxEEu7xIB6mY2xH4gZmPaYp9HR33iIY5qqN-dPEeevV-sS1cSg9fck0kMXgop-qBOVikLx2a4s8n0ZmrHO93pc7BiLdyshPPuyz47DCegEwcECszielHQPruIVt6X3dsgVyitlAuhAxOahUwXF4GUr5KqhBXWjQ52GBafNiR5X31hHDLpx5hlsqcpRrQAd-zKwd41rFRBb8KDXrocW8yLRSGkPFnGJ8NkyEMjPjnjn5UsbdIqfwPQC-rK74EG7IkIw_HBQjv6mDhbg6bcdeyuA0RcjM6tg7wn8BKx967yMq-kVjg_kOhhTcC79NpjliOncfuP5vA6SH8kjfl3CqpJL-iy5gS6DO-NkqwH2JIHB0IQAqgcILKUW-WVswehi79abD-PiBOJF3TbwrCGHUTpLPK_WlVI72kFMQ4Khmfwt34BWe5TjEZRJx07Sz0bYBdTl1k0cx1xjvAAVTDUAZzZpb4HmIk67rHOnznSwCXLk7GgC7_F6fUsdMu2WmANj3f_A3o2yysKxeAo9QjeloYGxvLUmQcaFdf0rVlcd3SLLrVefEEoPBCPUN8ye0AE15-1te1FkCvH2YoQt4R4bUVilpXl1reKcAGe-QZkakLZre0UL9GjObhG0mL-fpnFUc6_0Uta0fxehwbV0L9pl7G9Xj0GEIffmWhFcl3qYVGHBeDsrVeHJ2ic2yES4C1tTlceo2Fzaey7hKzIcgp8b-t--dq8zTXZdOc4hyGNBEhC04X9pOLUJT6MYUEV8X9JmJA-PY0saGHKGFdiLWnukdXJtNmim-2if18AR7xREVf_8vYsVpYYQNNDBRsTAOJyWzCFygC8000c3Yy8iSay8-IHMbj-z54EIkfSVwQAilOnujUocl9CTlm_2YlHmGg9T_53QsdR-vsBv-cHVYexdF5rQNNwSplh1_Y_o2Ke9P2sZE8pVt-arqKifevHhZBGm_tCxu2UPAtPtZXMNDZEvC1AZJ-tUomkJxEA1-P_lpup8ehdYP7NQhyy3gPmb1wNk8UvvecqtrickyZzI_OPi2yXA_J4omq22h2PiF-HEzGx7ZD6y-LaZ6ZLNAze2ESYUf_PulaVW40YrKJhqUKI3WGTFNRQqopkgQPfiCEvnyp8mHfVgynOYd-kkLEPw0M0zBzExBIaBcyXnCF_8g7USdHrvVJeQNqGrDbKrtuHnwEpX5p9R2wa0NIA77jdlXseQgKTVmOC182l_VHKgVw7JbLkQkevU3Ek_FhOppBUh51IDA_LTLX9gmdR2ET8HqWfs9AHhOjdJPg5nAc7uuS77rI8yS6ya3Zw_fEq37x26nM476ycwfAIaLnVScKwsIvm0ayChOsEKM7O4cn8nrKmOEYD6YkdqdSJe44Vf3RYQ81tbw5o9KLV-eg9LhhQtkg8_dYhgUx9c7Bpj-TqjjrtgXiw5f3wAqeZ-BIZKp0bxv2zRe3F8yZ2nhjnvo7lkNd8xsG6xSo6Jev8vyaO2lDlBfGXJLsb1DFDl00pxWoPxoqF24CQQwmvJKhv9tuiwT6mIVJQ-xGUf6j0fBSJyIuZWfrUCz3LVptpXNh5tjaRxYgllF7-F3qyC_nkonVLTmL2D67vjEaVQS28Q0ItY2Q4eT73O5t4by02p5Z-v5jbFWX0K-4QFecBl8zccmr3Pe4xzIdfeM_zht63ttF5QwT9fg_Bl5vPtoyktSuDnHkyCHnxxnp3wEcFk0dd2YyHMhECTYNxYgUO6KrNT4XTyQRdULELryHbUsmhrEoM_l92lAWGQOw-7EpLqcvjG9LJOOIdOb8tHOD2jk0Bz6he9DQm01uXmvrHcCc1yjGcXZvcNktAvPT_g8kB58
+
+{
+  "awb_id": "26320",
+  "awb_number": "004612282741"
+}
+
+Status: 200 OK
+Headers
+Access-Control-Allow-Origin:
+https://www.sicepat.com
+Connection:
+keep-alive
+Content-Length:
+1622
+Content-Type:
+application/json
+Date:
+Sun, 28 Jun 2026 08:29:14 GMT
+EagleId:
+a3b5128f17826353546187618e
+Server:
+ESA
+Set-Cookie:
+acw_tc=a3b5128f17826353546187618ebe52bbaefeefee89451c2a0be322d554;path=/;HttpOnly;Max-Age=3600
+Set-Cookie:
+cdn_sec_tc=a3b5128f17826353546187618ebe52bbaefeefee89451c2a0be322d554;path=/;HttpOnly;Max-Age=3600
+Strict-Transport-Security:
+max-age=31536000; includeSubDomains
+Timing-Allow-Origin:
+*
+Traceparent:
+00-248ebb185e3b5299c0283dbb7427ec4c-e04af65131f2c523-00
+Vary:
+Origin
+Vary:
+Origin
+via:
+ens-cache23.l2sg7[140,0,DP], ens-cache6.id62[155,0,DP], ens-cache6.id62[155,0]
+X-B3-Sampled:
+0
+X-B3-Spanid:
+e04af65131f2c523
+X-B3-Traceid:
+248ebb185e3b5299c0283dbb7427ec4c
+X-Krakend:
+Version 1.4.1
+X-Krakend-Completed:
+false
+x-site-cache-status:
+DYNAMIC
+
+{
+  "data": {
+    "sicepat": {
+      "status": {
+        "description": "OK",
+        "code": 200
+      },
+      "result": {
+        "waybill_number": "004612282741",
+        "service": "REG",
+        "sender": "T*** ** ***** ******** ***p",
+        "receiver_address": "Serpong, KOTA TANGERANG SELATAN",
+        "receiver_name": "S****a",
+        "POD_receiver": "Paket diterima oleh [Silvia - (YBS) Yang Bersangkutan]",
+        "POD_receiver_time": "2026-05-31 16:22",
+        "send_date": "2026-05-30 17:11",
+        "track_history": [
+          {
+            "date_time": "2026-05-30 08:34",
+            "status": "PICKREQ",
+            "city": "Terima permintaan pick up dari [Shopee]"
+          },
+          {
+            "date_time": "2026-05-30 16:51",
+            "status": "PICK",
+            "city": "Paket telah di pick up oleh [SIGESIT - Nurul Ikhsan]"
+          },
+          {
+            "date_time": "2026-05-30 17:11",
+            "status": "IN",
+            "city": "Paket telah di input (manifested) di Tangerang Selatan [Tangsel Setu FM]"
+          },
+          {
+            "date_time": "2026-05-30 20:24",
+            "status": "OUT",
+            "city": "Paket keluar dari Tangerang Selatan [Tangsel Setu FM]"
+          },
+          {
+            "date_time": "2026-05-31 05:18",
+            "status": "IN",
+            "city": "Paket telah diproses sortir di Tangerang [Tangerang Sortation 1]"
+          },
+          {
+            "date_time": "2026-05-31 06:32",
+            "status": "OUT",
+            "city": "Paket keluar dari Tangerang [Tangerang Sortation 1]"
+          },
+          {
+            "date_time": "2026-05-31 07:42",
+            "status": "IN",
+            "city": "Paket telah di terima di Tangerang Selatan [Tangsel Serpong LM]"
+          },
+          {
+            "date_time": "2026-05-31 12:56",
+            "status": "ANT",
+            "city": "Paket dibawa [SIGESIT - Fadjar Permana]"
+          },
+          {
+            "date_time": "2026-05-31 16:22",
+            "status": "DELIVERED",
+            "receiver_name": "Paket diterima oleh [Silvia - (YBS) Yang Bersangkutan]"
+          }
+        ],
+        "last_status": {
+          "date_time": "2026-05-31 16:22",
+          "status": "DELIVERED",
+          "receiver_name": "Paket diterima oleh [Silvia - (YBS) Yang Bersangkutan]"
+        }
+      }
+    }
+  },
+  "code": "200000",
+  "statusCode": 200,
+  "latency": "136.08 ms"
+}
